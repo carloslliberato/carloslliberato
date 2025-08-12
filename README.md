@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Carlos Liberato
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslliberato&show_icons=true&theme=dark&include_all_commits=true&count_private=false&title_color=ff6f61&icon_color=ff6f61&custom_title=🔥+My+GitHub+Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloslliberato&show_icons=true&theme=dark&include_all_commits=true&count_private=false&title_color=ff6f61&icon_color=ff6f61&custom_title=+Carlos+Liberato's+GitHub+Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloslliberato&layout=compact&langs_count=8&theme=dark&title_color=ff6f61&custom_title=🧠+Languages+I+Use+Most"/>
 </div>
 
