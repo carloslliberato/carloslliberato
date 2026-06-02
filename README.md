@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo ou acompanhe minhas redes de perto: ⤵️
+  💌 Entre em contato comigo ou acompanhe minhas redes de perto:
 </p>
 
 <p align="left">
